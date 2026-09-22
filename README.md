@@ -1,5 +1,6 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-FedBCa-Bladder-Cancer-T2W (2026/09/22)</h2>
-
+Sarah T. Arai <br>
+Software Laboratory antillia.com<br><br>
 This is the first experiment in Image Segmentation for <b>Bladder-Cancer-MRI</b>
  based on
 our <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">TensorFlowFlexUNet Model</a>
@@ -174,6 +175,7 @@ base_filters   = 16
 base_kernels   = (11,11)
 num_layers     = 8
 dropout_rate   = 0.04
+; Defined a large dilation
 dilation       = (3,3)
 </pre>
 <b>Learning rate</b><br>
