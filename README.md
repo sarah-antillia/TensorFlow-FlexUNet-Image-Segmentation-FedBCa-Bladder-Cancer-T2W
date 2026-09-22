@@ -54,7 +54,7 @@ in its clinical application
 Cao, Kangyang; Zou, Yujian; Zhang, Chang; Zhang, Weijing; Zhang, Jie; Wang, Guojie;  Zhang, Chu;<br> 
 Lyu, Jiegeng; Sun, Yue; Zhang, Hongyuan et al. 
 <br><br>
-The following explanation (excerpt) was taken the website above.
+The following explanation (excerpt) was taken from the website above.
 <br><br>
 <b>Abstract</b><br>
 Bladder cancer (BCa), as the most common malignant tumor of the urinary system, 
